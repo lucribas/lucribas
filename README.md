@@ -6,7 +6,7 @@
   - Casper blockchain: 
     - Gitcoin Winner: :trophy: [Casper event-store](https://github.com/lucribas/casper-event-store-graphql)
     - Casper Challenge: [Casper Game Oracle](https://github.com/lucribas/casper-game-oracle)
-- :rocket: Also check my other projects on repos bellow
+- :rocket: Also check my personal projects on repos bellow
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/lucianoribas/)
 
 <!---
