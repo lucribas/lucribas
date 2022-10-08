@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lucribas
-- 👀 I’m interested in blockchain / fpga / flutter / golang
-- 🌱 I’m currently learning blockchain / fpga / flutter / golang
+- 👀 I’m interested in blockchain, crypto, fpga, golang, dart and flutter
 - 💞️ I’m collaborating on:
   - Gnome [PR-1462](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1462)
   - Hyperledger [PR-467](https://github.com/hyperledger/fabric-samples/pull/467) 
