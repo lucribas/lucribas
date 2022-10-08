@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @lucribas
 - 👀 I’m interested in blockchain, crypto, fpga, golang, dart and flutter
 - 💞️ I’m collaborating on:
-  - Gnome [PR-1462](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1462)
-  - Hyperledger [PR-467](https://github.com/hyperledger/fabric-samples/pull/467) 
+  - Gnome [gnome-control-center PR-1462](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1462)
+  - Hyperledger [fabric-samples PR-467](https://github.com/hyperledger/fabric-samples/pull/467) 
   - Casper blockchain: 
-    - [event-store](https://github.com/lucribas/casper-event-store-graphql)
-    - [oracle](https://github.com/lucribas/casper-game-oracle)
-- :rocket: Also check my repos bellow
+    - Gitcoin Winner: :trophy: [Casper event-store](https://github.com/lucribas/casper-event-store-graphql)
+    - Casper Challenge: [Casper Game Oracle](https://github.com/lucribas/casper-game-oracle)
+- :rocket: Also check my other projects on repos bellow
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/lucianoribas/)
 
 <!---
