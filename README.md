@@ -2,6 +2,7 @@
 - 👀 I’m interested in blockchain, crypto, fpga, golang, dart and flutter
 - 💞️ I’m collaborating on:
   - Gnome [gnome-control-center PR-1462](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1462)
+  - Flutter [logcat_monitor package](https://pub.dev/packages/logcat_monitor)
   - Hyperledger [fabric-samples PR-467](https://github.com/hyperledger/fabric-samples/pull/467) 
   - Casper blockchain: 
     - Gitcoin Winner: :trophy: [Casper event-store](https://github.com/lucribas/casper-event-store-graphql)
