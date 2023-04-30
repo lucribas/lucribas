@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lucribas
 - 👀 I’m interested in blockchain, crypto, fpga, golang, dart and flutter
 - 💞️ I’m collaborating on:
-  - Gnome [gnome-control-center PR-1462](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1462)
+  - Gnome [gnome-control-center PR-1462](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1462) now in Ubuntu 23.10 :D
   - Flutter [logcat_monitor package](https://pub.dev/packages/logcat_monitor)
   - Hyperledger [fabric-samples PR-467](https://github.com/hyperledger/fabric-samples/pull/467) 
   - Casper blockchain: 
