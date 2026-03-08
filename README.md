@@ -11,6 +11,7 @@
   - Jira Migration Tool in Golang [go-jira-migrate](https://github.com/lucribas/go-jira-migrate)
   - My Blockchain Nanodegree projects [udacity-blockchaindev-nanodegree](https://github.com/lucribas/udacity-blockchaindev-nanodegree) ⭐⭐ github stars! 🤩
   - Blockchain Oracle submission for Casper Challenge [casper-game-oracle](https://github.com/lucribas/casper-game-oracle)
+  - 3D Printing, check https://makerworld.com/en/@lucRIbas
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/lucianoribas/)
 
 <!---
