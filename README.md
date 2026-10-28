@@ -1,20 +1,26 @@
-- 👋 Hi, I’m @lucribas
-- 👀 I’m interested in blockchain, crypto, fpga, golang, dart and flutter
-- 💞️ I’m collaborating on:
-  - Gnome [gnome-control-center PR-1462](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1462) now in Ubuntu 23.10 :D
-  - Flutter [logcat_monitor package](https://pub.dev/packages/logcat_monitor)
-  - Hyperledger [fabric-samples PR-467](https://github.com/hyperledger/fabric-samples/pull/467) 
-  - Casper blockchain: 
-    - Gitcoin Winner: :trophy: [Casper event-store](https://github.com/lucribas/casper-event-store-graphql)
-    - Casper Challenge: [Casper Game Oracle](https://github.com/lucribas/casper-game-oracle)
-- :rocket: Also check my personal projects on repos bellow
-  - Jira Migration Tool in Golang [go-jira-migrate](https://github.com/lucribas/go-jira-migrate)
-  - My Blockchain Nanodegree projects [udacity-blockchaindev-nanodegree](https://github.com/lucribas/udacity-blockchaindev-nanodegree) ⭐⭐ github stars! 🤩
-  - Blockchain Oracle submission for Casper Challenge [casper-game-oracle](https://github.com/lucribas/casper-game-oracle)
-  - 3D Printing, check https://makerworld.com/en/@lucRIbas
-- 📫 How to reach me [linkedin](https://www.linkedin.com/in/lucianoribas/)
+- 👋 Hi, I’m @lucribas!
+- 👀 I’m interested in blockchain, cryptocurrencies, FPGAs, Go, Dart, Flutter, and machine learning.
+- 💞️ My open-source contributions and experiments:
+  - 🧠 OpenAI Parameter Golf: [PR #1904](https://github.com/openai/parameter-golf/pull/1904) — experimental Activation-Space Compressed-Sensing Adapters (ACSA) for language-model adaptation at evaluation time. Non-record submission: 1.2580 bits per byte with a model artifact under 16 MB, evaluated on 8×H100 GPUs.
+  - 🐧 GNOME: [gnome-control-center MR #1462](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1462), included in Ubuntu 23.10! 🎉
+  - 📱 Flutter: [logcat_monitor package](https://pub.dev/packages/logcat_monitor)
+  - 🔗 Hyperledger: [fabric-samples PR #467](https://github.com/hyperledger/fabric-samples/pull/467)
+  - 📄 pdfmake: [my experimental fork](https://github.com/lucribas/pdfmake/tree/feat/use-image-streams-async_on_2.0_latest) — asynchronous image loading, document measurement, layout, and rendering.
+  - 🖼️ PDFKit: [my experimental fork](https://github.com/lucribas/pdfkit/tree/feature/image-stream-support) — asynchronous image-loading callbacks and image-stream support experiments.
+  - 👻 Casper blockchain:
+    - 🏆 Gitcoin winner: [Casper Event Store](https://github.com/lucribas/casper-event-store-graphql)
+    - 🔮 Casper Challenge: [Casper Game Oracle](https://github.com/lucribas/casper-game-oracle)
+  - 🎹 Piano learning:
+    - 🎼 MuseScore: [PR #34351](https://github.com/musescore/MuseScore/pull/34351)
+    - 🎵 PianoBooster: [my pull requests](https://github.com/pianobooster/PianoBooster/pulls?q=author%3Alucribas)
 
-<!---
-lucribas/lucribas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🚀 Check out my personal projects:
+  - ⏱️ [Ponto na Certi](https://github.com/lucribas/ponto_na_certi) — a Chrome extension that combines attendance records and Google Calendar events to simplify project timesheets at Fundação CERTI, with review and approval before submission to Channel.
+  - ₿ [BTC UTXO Balance Service](https://github.com/lucribas/btc-utxo-balance-service) — a snapshot-based Bitcoin address balance API powered by Bitcoin Core, AssumeUTXO, and RocksDB, with bulk queries and a Go client.
+  - 🛠️ [go-jira-migrate](https://github.com/lucribas/go-jira-migrate) — a Jira migration tool written in Go.
+  - 🎓 [Blockchain Developer Nanodegree projects](https://github.com/lucribas/udacity-blockchaindev-nanodegree) — my projects from Udacity’s Blockchain Developer Nanodegree.
+  - 🎮 [Casper Game Oracle](https://github.com/lucribas/casper-game-oracle) — a blockchain oracle built for the Casper Challenge.
+  - 🖨️ [My MakerWorld designs](https://makerworld.com/en/@lucRIbas) — my 3D printing projects.
+
+- ⭐ Like a project? Give it a star!
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/lucianoribas/).
